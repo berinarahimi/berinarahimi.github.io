@@ -1,0 +1,28 @@
+
+.menyja_qender{
+	margin: auto;
+    width: 70%;
+}
+
+.pa_pike{
+	list-style-type: none;
+    text-decoration:none;
+}
+
+
+
+.qender{
+    text-align: center;
+    
+}
+
+
+
+
+.task{
+	text-align:center;
+	text-decoration: none;
+	font-size:20px;
+	font-family:font-family: 'Rubik', sans-serif;
+
+    }

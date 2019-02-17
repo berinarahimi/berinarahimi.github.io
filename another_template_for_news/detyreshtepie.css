@@ -1,0 +1,55 @@
+.divi{
+display:inline-block;
+	position:relative;
+	float:left;
+	width:68%;
+	height:550px;
+	background:#FA1654;
+	top:70px;
+	overflow:auto;
+	border:1px solid #FA1654;
+	border-top:1px;
+	}
+
+.index{
+	position:relative;
+	top:20px;
+	display:block;
+	padding: 15px 5px;
+	background: #FA3C70;
+	text-decoration:underline;
+	border-top-left-radius: 12px;
+	border-top-right-radius:12px;
+	z-index:1;
+	font-size:40px;
+
+    }
+
+
+
+	.majmuni{
+		width:98%;
+		height:100px;
+		margin-top:20px;
+	}
+	.indexi{
+		position:relative;
+		top:20px;
+		display:block;
+		padding: 15px 5px;
+		background: #FA3C70;
+		text-decoration:underline;
+		border-top-left-radius: 12px;
+		border-top-right-radius:12px;
+		z-index:1;
+		font-size:40px;
+		margin:0;
+		}
+
+	img.star{
+		float:right;
+		margin-left:10px; 
+		margin-top:20px;
+		margin-right:10px;
+		}
+

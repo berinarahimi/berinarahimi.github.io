@@ -1,0 +1,129 @@
+.menyja_qender{
+	margin: auto;
+    width: 70%;
+}
+
+.pa_pike{
+	list-style-type: none;
+}
+
+
+
+.qender{
+    text-align: center;
+    
+}
+
+
+.task{
+    margin-top:2%;
+	text-align:center;
+	text-decoration: none;
+	font-size:20px;
+	font-family:font-family: 'Rubik', sans-serif;
+	float:left;	
+	list-style-type: none;
+    margin-left:6.4%;
+}
+
+.logo{
+    float:left;
+    margin-top:1%;
+    margin-left:1%;
+}
+
+
+nav a:link {
+    color:#e8bc35;
+    padding: 20px;
+    font-weight: bold;
+}
+
+nav a:visited {
+	color:#e8bc35;
+}
+
+nav a:hover {
+    background-color:#e8bc35;
+    color: white;
+}
+
+
+nav a:active {
+	color: white;
+    background-color:#e8bc35;
+}
+
+
+.jam_ketu {
+    color: white!important;
+    background-color:#e8bc35;
+
+}
+
+.menyja{
+	text-align:center;
+}
+
+.divi-mbajtes {
+    position: relative;
+    width: 100%;
+    height: 700px;
+    padding: 0;
+}
+footer{
+    padding: 1em;
+    /*margin-bottom: 10px;*/
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    background-color:#e8bc35;
+    clear: left;
+    text-align: center;
+    font-family: 'Text Me One', sans-serif;
+}
+
+
+.column {
+  float: left;
+  width:28%;
+  margin:1%;
+  padding: 10px;
+  height: 350px;
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.kolona_e_madhe{
+    border:red 280px;
+}
+
+.konola_vogel{
+    border:red 20px;
+}
+
+
+.beasts{
+    float:left;
+    margin-left:20%;
+    margin-bottom:5%;
+}  
+
+.grindelwald{
+    float:left;
+    margin-right:10%;
+}
+
+.btn{
+    border:1px solid #e8bc35;
+    background-color: #e8bc35;
+    font-size:25px;
+    padding:10px 20px;
+    font-size:20px;
+    color:white;
+}
