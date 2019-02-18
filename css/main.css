@@ -1,0 +1,139 @@
+body, html {
+    background: url(background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color:black;
+}
+
+h1{
+	text-align:center;
+	font-size:85px;
+	font-family: 'Righteous', cursive;
+    font-weight: bolder;
+    color: #fff;
+    margin-top:3%;
+    -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+}
+
+hr {
+    border: none;
+    height: 4px;
+    color: #000; /* old IE */
+    background-color: #000; /* Modern Browsers */
+}
+
+ .column2 {
+    float: left;
+    width:28%;
+    padding: 10px;
+    height:650px; 
+    margin-left:5%;
+    margin-right:3%;
+    margin-bottom:1%;
+    margin-top:1%;
+    font-family: 'Text Me One', sans-serif;
+    font-size: 20px;
+    overflow:hidden;
+    text-align:justify; 
+    font-weight: bold;
+    /*-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";     */
+	/*filter: alpha(opacity=50); */
+	/*-moz-opacity: 0.5;          */
+	/*-khtml-opacity: 0.5;        */
+	/*opacity: 0.5;   */
+ 	background-color: rgba(255, 255, 220, 0.7);
+ 	border: 4px solid black;
+}
+
+ .column21 {
+    float: left;
+    width:28%;
+    padding: 10px;
+    height:500px; 
+    margin-left:16%;
+    margin-bottom:1%;
+    margin-top:3%;
+    font-family: 'Text Me One', sans-serif;
+    font-size: 20px;
+    overflow:hidden;
+    text-align:justify; 
+    font-weight: bold;
+ 
+}
+ .column211 {
+    float: left;
+    width:28%;
+    padding: 10px;
+    height:500px; 
+    margin-left:12%;
+    margin-bottom:1%;
+    margin-top:1%;
+    font-family: 'Text Me One', sans-serif;
+    font-size: 20px;
+    overflow:hidden;
+    text-align:justify; 
+    font-weight: bold;
+ 
+}
+
+
+footer{
+	border: 4px solid black;
+    padding: 1em;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgba(255, 255, 220, 0.7);;
+    clear: left;
+    text-align: center;
+}
+
+ .column1 {
+    width: 8%;
+    float: left;
+    padding: 10px;
+    height: 350px; 
+    margin:1%;
+
+}
+
+.kolonat_thate {
+    width: 30%;
+}
+
+.kolona_e_mesit {
+    margin: auto;
+    width: 19%;
+    padding: 30px;
+}
+.fotoja_sweets{
+	width:100%;
+	height:50%;
+}
+.sweets{
+	text-align:center;
+	font-size:30px;
+}
+
+.links{
+	text-decoration:none;
+	font-size:30px;
+	text-align:center;
+	margin-left:35%;
+	color: black;
+	margin-top:3%;
+}
+
+.fotot_te_kolonat_e_dyta{
+	width:100%;
+	height:50%;
+	margin-left:2%;
+}
+.fotot_te_kolonat_e_dytaa{
+	width:100%;
+	height:50%;
+	margin-right: 4%;
+	}
